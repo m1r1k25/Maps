@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://m1r1k25.github.io/Maps/",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  },
-  "homepage": "https://m1r1k25.github.io/Maps/"
+  }
 }
